@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @agent-smith-C          for friend Artur
+- 👀 I’m interested in               technical tips
+- 🌱 I’m currently learning          C, Linux, C++ and want to learn Python and AI
+- 💞️ I’m looking to collaborate on   interesting apps
+- 📫 How to reach me                 arturkowal0398@gmail.com
